@@ -2,8 +2,8 @@ from tkinter import *
 import time
 
 root =Tk()
-root.title('Codemy.com')
-root.iconbitmap("c:/gui/codemy.ico")
+root.title('AHMETKARAOGLAN')
+root.iconbitmap("KARAOGLAN")
 root.geometry('600x400')
 
 def clock():
